@@ -9,7 +9,7 @@
 <body>
     <div class="cabecera">
         <h1>Cocktel Bar</h1>
-        <p>Escoge la margarita que deseas elaborar:</p>
+        <p>Escoge el cocktel margarita que deseas elaborar</p>
     </div>
     <div class="contenido">
         <div class="cocteles">   
