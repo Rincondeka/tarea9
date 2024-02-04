@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;   
+}
+
+.cabecera{
+    margin: 20px auto;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+h1{
+    padding-top: 30px;
+    font-size: 2.5em;
+}
+.cabecera p{
+    font-size: 1.5em;
+}
+.contenido{
+    display: flex;
+    justify-content:space-around
+}
+.cocteles{
+    width: 400px;
+    min-height: 70vh;
+    background-color: rgb(245, 244, 243);
+    padding: 20px 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.receta{
+    width: 400px;
+    margin: 0 40px;
+}
+.receta p{
+    font-size: 1.3em;
+}
+.ingredientes{
+    width: 400px;
+    min-height: 70vh;
+    background-color: rgb(245, 244, 243);
+    padding: 20px 20px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+li{
+    font-size: 1.3em;
+    padding-bottom: 2rem;
+}
+h2{
+    font-size: 1.8em;
+    font-style: italic;
+}
+h3{
+    font-size: 1.5em;
+}
